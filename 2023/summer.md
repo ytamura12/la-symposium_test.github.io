@@ -9,7 +9,7 @@ title: LA Symposium 2023, 夏のLA
   <dt>日程</dt>
   <dd>2023年 <time datetime="2023-07-19">7月3日(月)</time>–<time datetime="2023-07-5">7月5日(水)</time></dd>
   <dt>会場</dt>
-  <dd>サン・リフレ函館<a href="https://s-refre-hakodate.com/">https://s-refre-hakodate.com/</a></dd>
+  <dd>サン・リフレ函館 <a href="https://s-refre-hakodate.com/">https://s-refre-hakodate.com/</a></dd>
   <dd>〒040-0034 函館市大森町2番14号</dd>
 </dl>
 
