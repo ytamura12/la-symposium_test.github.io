@@ -13,7 +13,7 @@ title: LA Symposium 2023, 夏のLA
   <dd>〒040-0034 函館市大森町2番14号</dd>
 </dl>
 
-[プログラム(HTML形式)](./summer_program.html) [プログラム(PDF形式)](./LA2023summer_program.pdf)
+[プログラム(HTML形式)](./summer_program.html) [プログラム(PDF形式)](./2023/LA2023summer_program.pdf)
 
 参加登録
 --------
