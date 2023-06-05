@@ -17,7 +17,7 @@ title: LA Symposium 2023, 夏のLAプログラム
 : Caroline Brosse (Université Clermont Auvergne), Oscar Defrain (Aix-Marseille Université), Arnaud Mary (Université de Lyon), ○ Kazuhiro Kurita (Nagoya University), Vincent Limouzy (Université Clermont Auvergne), Takeaki Uno (National Institute of Informatics), Kunihiro Wasa (Hosei University)
 
 [2]	多様な最短経路を求める固定パラメータアルゴリズム
-: 舟山 諒, 小林 靖明 (北海道大学)
+: ○ 舟山 諒, 小林 靖明 (北海道大学)
 
 [3]	平面上の最小重み無交差Lamanグラフと関連する幾何的グラフについて
 : ○ 河上 悠輝, 脊戸 和寿, 堀山 貴史 (北海道大学), 小林 祐貴 (大阪公立大学), 東川 雄哉, 加藤 直樹 (兵庫県立大学)
