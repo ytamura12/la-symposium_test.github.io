@@ -23,7 +23,8 @@ title: LA Symposium 2023, 夏のLA
 
 参加を希望される方は，以下のリンク先より，参加登録をお願いいたします．
 
-[参加登録](https://art.ist.hokudai.ac.jp/LA/sanka/){:target="_blank"}
+参加登録 (締め切りました)
+<!-- [参加登録](https://art.ist.hokudai.ac.jp/LA/sanka/){:target="_blank"} -->
  
 ### 参加費の支払い情報
 
