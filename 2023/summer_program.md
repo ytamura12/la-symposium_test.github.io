@@ -38,7 +38,8 @@ title: LA Symposium 2023, 夏のLAプログラム
 [7]	格子状の動的フローネットワークにおける避難施設配置問題
 : 照山 順一, 戸國 友貴, ○ 西井 彩乃, 東川 雄哉 (兵庫県立大学)
 
-[8] 発表キャンセル
+[8] Faster Algorithms for Evacuation Problems in Networks with the Single Sink of Small Degree
+: ○ 戸國 友貴, 加藤 直樹, 照山 順一, 東川 雄哉 (兵庫県立大学)
 
 #### 12:10 - 13:50 昼食休憩
 
