@@ -141,3 +141,8 @@ dt {
 dl.baccount { border: 2px  solid  darkblue;  width: max-content; max-width: 100%; padding: 5px 10px; color: black; background-color: #EEEEEE; font-weight: bold;}
 
 .balance td:nth-child(2) { text-align: right; }
+
+img {
+  max-width: 100%;
+  border: 1px solid #eee;
+}
