@@ -15,6 +15,10 @@ title: LA Symposium 2023, 夏のLA
 
 [プログラム(HTML形式)](./summer_program.html) [プログラム(PDF形式)](./LA2023summer_program.pdf)
 
+![当日の様子1]({{site.baseurl}}/2023/la2023s1.jpg)
+
+
+
 参加登録
 --------
 ### 参加登録方法
