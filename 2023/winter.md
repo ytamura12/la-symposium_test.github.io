@@ -3,7 +3,7 @@ layout: default
 title: LA Symposium 2023, 冬のLA
 ---
 
-夏のLA開催概要
+冬のLA開催概要
 --------
 <dl>
   <dt>日程</dt>
