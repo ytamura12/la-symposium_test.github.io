@@ -74,10 +74,7 @@ LaTeX 用の予稿のテンプレート ([LAtemplate_w.tex]({{ "/assets/tex/LAte
 
 参加者の方へ
 --------
-下記に記載の「行動規範」をご理解頂いたうえで参加頂ますようお願いいいたします．
-
-[行動規範](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} 
-
+[RIMS共同研究における男女共同参画・ダイバーシティ等に関する取り組みについて](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} をご理解頂いたうえで参加頂ますようお願いいいたします．
 
 LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentation Award, Student Presentation Award)
 --------
