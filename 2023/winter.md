@@ -76,7 +76,7 @@ LaTeX 用の予稿のテンプレート ([LAtemplate_w.tex]({{ "/assets/tex/LAte
 --------
 下記に記載の「行動規範」をご理解頂いたうえで参加頂ますようお願いいいたします．
 
-<https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html>
+[行動規範](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} 
 
 
 LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentation Award, Student Presentation Award)
@@ -87,13 +87,13 @@ Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が�
 Chapter事務局各位には，暖かいご支援に厚く御礼申し上げます．
 
 
-* [EATCS](http://www.eatcs.org/)
-* [EATCS日本支部](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/index-j.html)
+* [EATCS](http://www.eatcs.org/){:target="_blank"} 
+* [EATCS日本支部](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/index-j.html){:target="_blank"} 
 
 本賞の選奨規程とこれまでの受賞者は以下のリンクよりご覧になれます．
 
-* [本賞の選奨規程](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/190205sensho.pdf)
-* [これまでの受賞者](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/award-j.html)
+* [本賞の選奨規程](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/190205sensho.pdf){:target="_blank"} 
+* [これまでの受賞者](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/award-j.html){:target="_blank"} 
 
 <!--
 ### LA/EATCS-Japan 発表論文賞
