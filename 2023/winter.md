@@ -16,7 +16,7 @@ title: LA Symposium 2023, 冬のLA
 
 <!-- [プログラム](./winter_program.html) -->
 
-講演申込
+講演申し込み
 --------
 締切：2023年12月22日 (金)
 
