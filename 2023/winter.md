@@ -15,7 +15,7 @@ title: LA Symposium 2023, 冬のLA
   <dd><strong>※会場が例年と異なりますので，ご注意ください．</strong></dd>
 </dl>
 
-<!-- [プログラム](./winter_program.html) -->
+[プログラム(HTML形式)](./summer_program.html) 
 
 講演申し込み
 --------
@@ -23,7 +23,7 @@ title: LA Symposium 2023, 冬のLA
 
 講演を希望される方は，以下のリンク先より，講演申し込みをお願いいたします．
 
-[講演申し込み](https://art.ist.hokudai.ac.jp/LA/kouen/){:target="_blank"} 
+<!-- [講演申し込み](https://art.ist.hokudai.ac.jp/LA/kouen/){:target="_blank"} -->
 
 講演者は講演申し込みに加えて，期日までに参加登録も済ませていただくようお願いいたします．
 
