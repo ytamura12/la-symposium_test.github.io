@@ -15,7 +15,7 @@ title: LA Symposium 2023, 冬のLA
   <dd><strong>※会場が例年と異なりますので，ご注意ください．</strong></dd>
 </dl>
 
-[プログラム(HTML形式)](./winter_program.html) 
+[プログラム(HTML形式)](./winter_program.html) [プログラム(PDF形式)](./LA2023winter_program.pdf)
 
 講演申し込み
 --------
