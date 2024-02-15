@@ -137,7 +137,7 @@ title: LA Symposium 2023, 冬のLAプログラム
 : ◎ 平塚 駿也, 山田 敏規 (埼玉大学)
 
 [30] ほぼ線形時間のモバイルエージェント分散配置アルゴリズム
-: ○ 首藤 裕一 (法政大学), 柴田 将拡 (Kyushu Institute of Technology), 中村 純哉 (Toyohashi University of Technology), 金 鎔煥 (Nagoya Institute of Technology), 増澤 利光 (Osaka University)
+: ○ 首藤 裕一 (法政大学), 柴田 将拡 (九州工業大学), 中村 純哉 (豊橋技術科学大学), 金 鎔煥 (名古屋工業大学), 増澤 利光 (大阪大学)
 
 [31] PLS is contained in PLC
 : ○ 石塚 天 (富士通株式会社)
