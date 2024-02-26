@@ -91,12 +91,12 @@ Chapter事務局各位には，暖かいご支援に厚く御礼申し上げま�
 
 
 * [EATCS](http://www.eatcs.org/){:target="_blank"} 
-* [EATCS日本支部](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/index-j.html){:target="_blank"} 
+* [EATCS日本支部](http://www.dais.is.tohoku.ac.jp/eatcs_japan/index-j.html){:target="_blank"} 
 
 本賞の選奨規程とこれまでの受賞者は以下のリンクよりご覧になれます．
 
-* [本賞の選奨規程](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/190205sensho.pdf){:target="_blank"} 
-* [これまでの受賞者](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/award-j.html){:target="_blank"} 
+* [本賞の選奨規程](http://www.dais.is.tohoku.ac.jp/eatcs_japan/190205sensho.pdf){:target="_blank"} 
+* [これまでの受賞者](http://www.dais.is.tohoku.ac.jp/eatcs_japan/award-j.html){:target="_blank"} 
 
 <!--
 ### LA/EATCS-Japan 発表論文賞
