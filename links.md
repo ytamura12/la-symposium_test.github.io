@@ -13,6 +13,7 @@ title: LA Symposium, リンク
 
 過去のLAシンポジウム
 --------
+* [LA 2023](./2023/index.html){:target="_blank"}
 * [LA 2022](https://la-symposium2022.github.io/index.html){:target="_blank"}
 * [LA 2021](http://tcs.inf.kyushu-u.ac.jp/LA2021/index.php){:target="_blank"}
 * [LA 2020](http://www-ppl.ist.osaka-u.ac.jp/la2020/){:target="_blank"}
