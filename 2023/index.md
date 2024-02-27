@@ -5,8 +5,9 @@ title: LA Symposium
 
 2023年度LAシンポジウム
 --------
-[2023年度夏のLA](./summer.html)
-[2023年度冬のLA](./winter.html)
+[2023年度夏のLA](./2023/summer.html)
+
+[2023年度冬のLA](./2023/winter.html)
 
 2023年度LAシンポジウム事務局
 --------
