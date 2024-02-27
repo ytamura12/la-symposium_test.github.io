@@ -5,7 +5,7 @@ title: LA Symposium, リンク
 
 関連リンク
 --------
-* [EATCS Japan Chapter](http://www.ecei.tohoku.ac.jp/alg/EATCS-J/index.html){:target="_blank"}
+* [EATCS Japan Chapter](http://www.dais.is.tohoku.ac.jp/eatcs_japan/index-j.html){:target="_blank"}
 * [電子情報通信学会 コンピュテーション研究会 (COMP研)](http://www.ieice.org/~comp/){:target="_blank"}
 * [情報処理学会 アルゴリズム研究会 (SIGAL)](http://www.ipsj-sigal.or.jp/){:target="_blank"}
 * [情報処理学会 数理モデル化と問題解決研究会 (MPS)](http://www.ipsj.or.jp/sig/mps/){:target="_blank"}
