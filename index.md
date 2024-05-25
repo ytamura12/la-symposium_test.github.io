@@ -13,6 +13,11 @@ LAシンポジウムは，理論計算機科学の研究者がこの分野のテ
 {% include news.md %}
 </div>
 
+<div markdown="1" id="office.md">
+{% include office.md %}
+</div>
+
+<!--
 2024年度LAシンポジウム事務局
 --------
 * 川原 純 (京都大学)，代表
@@ -25,6 +30,7 @@ LAシンポジウムは，理論計算機科学の研究者がこの分野のテ
 * 森本 尚之 (三重大学)
 
 問い合わせ先：la2024_committee [at] kurs10173.sakura.ne.jp
+-->
 
 
 謝辞
