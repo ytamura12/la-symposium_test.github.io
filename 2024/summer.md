@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LA Symposium 2023, 夏のLA
+title: LA Symposium 2024, 夏のLA
 ---
 
 夏のLA開催概要
