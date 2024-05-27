@@ -9,4 +9,4 @@
 * 宮崎 修一 (兵庫県立大学)
 * 森本 尚之 (三重大学)
 
-問い合わせ先：la2024_committee [at] kurs10173.sakura.ne.jp
+お問い合わせ先： {% include mail.md %}

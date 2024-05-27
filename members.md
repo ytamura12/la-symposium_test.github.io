@@ -26,5 +26,6 @@ title: LA Symposium, 年会費/会員情報
  
 ## お問い合わせ先
 2024年度LA事務局
-: la2024_committee [at] kurs10173.sakura.ne.jp
+: {% include mail.md %}
+<!-- la2024_committee [at] kurs10173.sakura.ne.jp -->
  
