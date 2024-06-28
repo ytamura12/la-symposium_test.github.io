@@ -17,7 +17,7 @@ title: LA Symposium 2024, 夏のLA
 <!--
 [プログラム(HTML形式)](./summer_program.html)
 -->
-[プログラム(PDF形式)](./la2024s_program.pdf)
+[プログラム(PDF形式)](./la2024s_program_v2.pdf)
 
 <!--
 <p>
