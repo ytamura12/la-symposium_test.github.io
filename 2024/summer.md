@@ -38,8 +38,8 @@ title: LA Symposium 2024, 夏のLA
 
 参加を希望される方は，以下のリンク先より，参加登録をお願いいたします．
 
-<!-- <del>参加登録</del> (締め切りました) -->
-[参加登録](https://art.ist.hokudai.ac.jp/LA/sanka/){:target="_blank"}
+<del>参加登録</del> (締め切りました)
+<!-- [参加登録](https://art.ist.hokudai.ac.jp/LA/sanka/){:target="_blank"} -->
  
 
 
