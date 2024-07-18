@@ -17,16 +17,16 @@ title: LA Symposium 2024, 夏のLA
 <!--
 [プログラム(HTML形式)](./summer_program.html)
 -->
-[プログラム(PDF形式)](./la2024s_program_v2.pdf)
+[プログラム(PDF形式)](./la2024s_program_v3.pdf)
 
-<!--
+
 <p>
-  <a href="{{site.baseurl}}/2023/la2023s1.jpg">
-  <img src="{{site.baseurl}}/2023/la2023s1.jpg" border="0" width="300px" height="200px"></a>
-  <a href="{{site.baseurl}}/2023/la2023s2.jpg">
-  <img src="{{site.baseurl}}/2023/la2023s2.jpg" border="0" width="300px" height="200px"></a>
+  <a href="{{site.baseurl}}/2024/la2024s1.jpg">
+  <img src="{{site.baseurl}}/2024/la2024s1.jpg" border="0" width="300px" height="200px"></a>
+  <a href="{{site.baseurl}}/2024/la2024s2.jpg">
+  <img src="{{site.baseurl}}/2024/la2024s2.jpg" border="0" width="300px" height="200px"></a>
 </p>
--->
+
 
 
 
@@ -46,7 +46,7 @@ title: LA Symposium 2024, 夏のLA
 
 ### 参加費の支払い情報
 
-学生: 無料, 一般: 10,000 円 (予定)
+学生: 無料, 一般: ~~10,000 円 (予定)~~ 3,000 円
 * 参加費は当日に会場にて現金でお支払いください．
 * 一般参加費は参加申込の状況により多少変更の可能性があります．
 
@@ -57,7 +57,7 @@ title: LA Symposium 2024, 夏のLA
 
 講演申し込み
 --------
-締切：~~2024年6月14日 (金)~~ 2024年6月20日（木）（延長しました．）
+締切：~~2024年6月14日 (金)~~ 2024年6月20日（木）(延長しました)
 
 
 講演を希望される方は，以下のリンク先より，講演申し込みをお願いいたします．
@@ -79,7 +79,8 @@ title: LA Symposium 2024, 夏のLA
 
 講演者の方へ
 --------
-予稿は 7月15日（月）までに [こちらのGoogleフォーム](https://forms.gle/PusJFGfuLLAUEjNV7){:target="_blank"} にアップロードしていただくようにお願いします．
+~~予稿は 7月15日（月）までに [こちらのGoogleフォーム] にアップロードしていただくようにお願いします．~~　(締め切りました)
+<!-- 予稿は 7月15日（月）までに [こちらのGoogleフォーム](https://forms.gle/PusJFGfuLLAUEjNV7){:target="_blank"} にアップロードしていただくようにお願いします． -->
 予稿は講演申込者および現地参加者にしか公開されません．また会議が終了次第，予稿のアップロード先にアクセスできないようにします．
 
 予稿は以下の書式でお願いいたします．
