@@ -41,10 +41,9 @@ title: LA Symposium 2024, 冬のLA
 --------
 #### 締切：2024年12月26日(木)
 
-参加申し込みはまもなく開始します．
-<!-- 参加を希望される方は，以下のリンク先より，参加登録をお願いいたします．-->
+参加を希望される方は，以下のリンク先より，参加登録をお願いいたします
 <!-- <del>参加登録</del> (終了しました) -->
-<!-- [参加登録](https://art.ist.hokudai.ac.jp/LA/sanka/){:target="_blank"} -->
+[参加登録](https://art.ist.hokudai.ac.jp/LA/sanka/){:target="_blank"}
 
 
 
