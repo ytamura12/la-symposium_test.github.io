@@ -24,8 +24,8 @@ title: LA Symposium 2024, 冬のLA
 #### 締切：2024年12月20日(金)
 
 講演を希望される方は，以下のリンク先より，講演申し込みをお願いいたします．
-<!-- <del>講演申し込み</del> (締め切りました) -->
-[講演申し込み](https://art.ist.hokudai.ac.jp/LA/kouen/){:target="_blank"}
+<del>講演申し込み</del> (締め切りました)
+<!-- [講演申し込み](https://art.ist.hokudai.ac.jp/LA/kouen/){:target="_blank"}-->
 
 
 講演者は講演申し込みに加えて，期日までに参加登録も済ませていただくようお願いいたします．
