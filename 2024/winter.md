@@ -14,9 +14,9 @@ title: LA Symposium 2024, 冬のLA
   <dd>〒606-8502 京都市左京区北白川追分町</dd>
 </dl>
 
-<!--
-[プログラム(HTML形式)](./winter_program.html) [プログラム(PDF形式)](./LA2023winter_program.pdf)
--->
+
+[プログラム(PDF形式)](./la2024w_program_v1.pdf)
+
 
 
 講演申し込み
