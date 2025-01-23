@@ -15,7 +15,7 @@ title: LA Symposium 2024, 冬のLA
 </dl>
 
 
-[プログラム(PDF形式)](./la2024w_program_v2.pdf)
+[プログラム(PDF形式)（1月23日更新）](./la2024w_program_v2.pdf)
 
 
 
