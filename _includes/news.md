@@ -1,5 +1,6 @@
 更新履歴
 --------
+* <span class="date">2025年2月4日</span> 2024年度冬のLAのLA/EATCS-Japan（学生）発表論文賞の情報を追加しました．
 * <span class="date">2025年1月24日</span> 2024年度冬のLAのプログラムを更新しました．
 * <span class="date">2025年1月23日</span> 2024年度冬のLAのプログラムを更新しました．
 * <span class="date">2025年1月9日</span> 2024年度冬のLAのプログラムを公開しました．
