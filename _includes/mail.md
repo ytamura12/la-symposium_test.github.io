@@ -1,1 +1,1 @@
-la2024_committee [at] kurs10173.sakura.ne.jp
+la2025-office [at] googlegroups.com
