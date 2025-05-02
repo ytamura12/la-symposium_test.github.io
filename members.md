@@ -28,5 +28,5 @@ title: LA Symposium, 年会費/会員情報
 
  
 ## お問い合わせ先
-2024年度LA事務局
+2025年度LA事務局
 : {% include mail.md %}
