@@ -89,13 +89,17 @@ title: LA Symposium 2024, 夏のLA
 発表番号はプログラムに記載されております．
 * ページ番号は「発表番号-ページ」の組でページ下中央に表記してください． (発表番号が[88]の例： 88-1, 88-2, 88-3, ...)
 
-<!--
+
 LaTeX 用の予稿のテンプレート ([LAtemplate.tex]({{ "/assets/tex/LAtemplate.tex" | relative_url }}))がございますので， どうぞご利用ください．
 52行目の「88」という数字をご自分の講演番号に書き換えていただき，70行目の「20XX年度YのLAシンポジウム」を該当する年度・季節に書き換えることで， 指定の書式の予稿を作成することができます (出力例：[LAtemplate.pdf]({{ "/assets/tex/LAtemplate.pdf" | relative_url }})).
--->
 
-LaTeX 用の予稿のテンプレート ([LAtemplate.tex](../assets/tex/LAtemplate.tex))がございますので， どうぞご利用ください．
+
+LaTeX 用の予稿のテンプレート ([LAtemplate.tex](../assets/tex/LAtemplate.tex){:target="_blank"})がございますので， どうぞご利用ください．
 52行目の「88」という数字をご自分の講演番号に書き換えていただき，70行目の「20XX年度YのLAシンポジウム」を該当する年度・季節に書き換えることで， 指定の書式の予稿を作成することができます (出力例：[LAtemplate.pdf]({{ "/assets/tex/LAtemplate.pdf" | relative_url }})).
+
+LaTeX 用の予稿のテンプレート ([LAtemplate.tex](./assets/tex/LAtemplate.tex){:target="_blank"})がございますので， どうぞご利用ください．
+52行目の「88」という数字をご自分の講演番号に書き換えていただき，70行目の「20XX年度YのLAシンポジウム」を該当する年度・季節に書き換えることで， 指定の書式の予稿を作成することができます (出力例：[LAtemplate.pdf]({{ "/assets/tex/LAtemplate.pdf" | relative_url }})).
+
 
 
 会場までの交通案内
