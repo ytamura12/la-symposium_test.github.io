@@ -10,7 +10,7 @@ title: LA Symposium 2024, 夏のLA
   <dd>2025年 <time datetime="2024-07-23">7月23日(水)</time>–<time datetime="2024-07-25">7月25日(金)</time></dd>
   <dt>会場</dt>
   <dd>アイーナ・いわて県民情報交流センター 会議室803 <a href="https://spf-aiina.sakura.ne.jp/wordpress/?p=5439" target="_blank">https://spf-aiina.sakura.ne.jp/wordpress/?p=5439</a></dd>
-  <dd>〒020-0045 岩手県盛岡市盛岡駅西通１丁目７−１</dd>
+  <dd>〒020-0045 岩手県盛岡市盛岡駅西通1丁目7−1</dd>
 </dl>
 
 
@@ -33,7 +33,7 @@ title: LA Symposium 2024, 夏のLA
 --------
 ### 参加登録方法
 
-締切：2025年7月X日（月火水木金土日）
+締切：2025年7月XX日（月火水木金土日）
 
 参加を希望される方は，以下のリンク先より，参加登録をお願いいたします．
 
