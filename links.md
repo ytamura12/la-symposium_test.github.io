@@ -20,7 +20,7 @@ title: LA Symposium, リンク
 * [LA 2020](http://www-ppl.ist.osaka-u.ac.jp/la2020/){:target="_blank"}
 * [LA 2019](https://la2019.trs.css.i.nagoya-u.ac.jp/){:target="_blank"}
 * [LA 2018](http://www.nishino-lab.jp/la2018/){:target="_blank"}
-* [LA 2017](http://www.shino.ecei.tohoku.ac.jp/semi/LA2017/){:target="_blank"}
+* [LA 2017](https://www.iss.is.tohoku.ac.jp/semi/LA2017/){:target="_blank"}
 * [LA 2016](https://junkawahara.github.io/la2016/){:target="_blank"}
 * [LA 2015](https://la-symposium2022.github.io//LA2015){:target="_blank"}
 * [LA 2014](http://www.se.hiroshima-u.ac.jp/LA2014/){:target="_blank"}
