@@ -10,7 +10,7 @@ title: LA Symposium 2024, 夏のLA
   <dd>2025年 <time datetime="2024-07-23">7月23日(水)</time>–<time datetime="2024-07-25">7月25日(金)</time></dd>
   <dt>会場</dt>
   <dd><a href="https://www.aiina.jp/" target="_blank">アイーナ・いわて県民情報交流センター</a> 会議室803 </dd>
-  <dd>〒020-0045 岩手県盛岡市盛岡駅西通１丁目７−１</dd>
+  <dd>〒020-0045 岩手県盛岡市盛岡駅西通1丁目7−1</dd>
 </dl>
 
 
