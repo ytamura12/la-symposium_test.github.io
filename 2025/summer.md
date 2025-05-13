@@ -100,7 +100,7 @@ LaTeX 用の予稿のテンプレート ([LAtemplate.tex]({{ "/assets/tex/LAtemp
 会場までの交通案内
 --------
 
-https://maps.app.goo.gl/avcKhHsWuTdSKQC16
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24557.444737935817!2d141.132802!3d39.701885!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8576335e9ddbf7%3A0xbaac93db86a020e7!2z44Ki44Kk44O844OK44O744GE44KP44Gm55yM5rCR5oOF5aCx5Lqk5rWB44K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1747125417034!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!-- ### 鳥羽駅まで
 
