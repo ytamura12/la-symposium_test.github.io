@@ -9,7 +9,6 @@ title: LA Symposium, リンク
 * [電子情報通信学会 コンピュテーション研究会 (COMP研)](http://www.ieice.org/~comp/){:target="_blank"}
 * [情報処理学会 アルゴリズム研究会 (SIGAL)](http://www.ipsj-sigal.or.jp/){:target="_blank"}
 * [情報処理学会 数理モデル化と問題解決研究会 (MPS)](http://www.ipsj.or.jp/sig/mps/){:target="_blank"}
-* [社会変革の源泉となる革新的アルゴリズム基盤の創出と体系化 (AFSA)](https://afsa.jp){:target="_blank"}
 
 過去のLAシンポジウム
 --------
