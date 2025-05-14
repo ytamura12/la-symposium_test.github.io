@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LA Symposium 2024, 冬のLA
+title: LA Symposium 2025, 冬のLA
 ---
 
 冬のLA開催概要
