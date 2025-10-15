@@ -31,6 +31,7 @@ title: LA Symposium 2025, 冬のLA
 
 ### ショートトークについて
 2023年度の冬のLAシンポジウムから，セッションの区分を「一般セッション」 と「学生セッション」ではなく，すべての講演者が「ロングトーク」と「ショートトーク」から選択する形式に変更しました．これにより，一般と学生の区別なく， 講演時間が長め/短めのご希望に沿ってお選びいただけるようになりました．
+ロングトークは25分（発表20分）程度，ショートトークは15分（発表12分）程度を想定していますが，申込件数によって増減します．
 
 
 
@@ -83,7 +84,7 @@ LaTeX 用の予稿のテンプレート ([LAtemplate.tex]({{ "/assets/tex/LAtemp
 LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentation Award, Student Presentation Award)
 --------
 
-2001年度より開始されましたLA発表論文賞ですが，2002年度からEATCS Japan Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が第23回となります． 
+2001年度より開始されましたLA発表論文賞ですが，2002年度からEATCS Japan Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が第24回となります． 
 EATCS Japan Chapter事務局各位には，暖かいご支援に厚く御礼申し上げます．
 
 * [EATCS](http://www.eatcs.org/){:target="_blank"} 
