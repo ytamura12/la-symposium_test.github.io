@@ -23,6 +23,7 @@ title: LA Symposium 2025, 冬のLA
 
 講演を希望される方は，以下のリンク先より，講演申し込みをお願いいたします．
 <!-- <del>講演申し込み</del> (締め切りました) -->
+
 [講演申し込み](https://forms.gle/vkk6GQJ8XvsapxYP6){:target="_blank"}
 
 
@@ -39,6 +40,7 @@ title: LA Symposium 2025, 冬のLA
 
 参加を希望される方は，以下のリンク先より，参加登録をお願いいたします．
 <!--　<del>参加登録</del> (終了しました) -->
+
 [参加登録](https://forms.gle/tSpR3gygm9EBesoJ9){:target="_blank"}
 
 
