@@ -48,11 +48,10 @@ title: LA Symposium 2025, 冬のLA
 
 今年度も例年通り，京都大学数理解析研究所共同研究集会として開催されます．
 そのため，旅費の補助および（希望者が一定数以上いる場合）講究録の作成を行います．
-旅費の補助を希望される方は，2025年12月8日(月) までに
-<!-- <del>オンラインの受付ページ</del> (締め切りました) -->
-[オンラインの受付ページ](https://forms.gle/GzZQenWjujGPYte98){:target="_blank"}
+旅費の補助を希望される方は，2025年12月8日(月) までに[オンラインの受付ページ](https://forms.gle/GzZQenWjujGPYte98){:target="_blank"}
 よりお申し込みください．
-なお，旅費補助の希望者多数の場合には，事務局にて調整させていただきますので， あらかじめご了承願います． なお，学部学生は補助の対象外です．
+<!-- <del>オンラインの受付ページ</del> (締め切りました) -->
+なお，旅費補助の希望者が多数の場合には，事務局にて調整させていただきますので， あらかじめご了承願います． なお，学部学生は補助の対象外です．
 
 
 
@@ -94,21 +93,17 @@ EATCS Japan Chapter事務局各位には，暖かいご支援に厚く御礼申�
 * [これまでの受賞者](http://www.dais.is.tohoku.ac.jp/eatcs_japan/award-j.html){:target="_blank"} 
 
 
-
+<!--
 ### LA/EATCS-Japan 発表論文賞
 
 今年度の受賞者は，○印の発表者です．おめでとうございます．
 
-[25] Dudeney’s Dissection is Optimal
-: Erik D. Demaine (Massachusetts Institute of Technology), ○ Tonan Kamata（鎌田 斗南）, Ryuhei Uehara (Japan Advanced Institute of Science and Technology)
 
 ### LA/EATCS-Japan 学生発表論文賞
 
 今年度の受賞者は，◎印の発表者です．おめでとうございます．
 
-[7S] Induced Subgraph Isomorphism Reconfiguration Under Extended Reconfiguration Rules
-: ◎ 菅 達皓，鈴木 顕，田村 祐馬，周 暁（東北大学）
-
+-->
 
 
 ### 選出方針
