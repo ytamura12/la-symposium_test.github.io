@@ -48,8 +48,8 @@ title: LA Symposium 2025, 冬のLA
 旅費補助について
 --------
 
-今年度の冬のLAシンポジウムも，京都大学数理解析研究所 RIMS共同研究（公開型）として開催させて頂くこととなりました．
-そのため，RIMSより旅費の補助を頂いております．
+今年度の冬のLAシンポジウムも，京都大学数理解析研究所 RIMS共同研究（公開型）として開催させていただくこととなりました．
+RIMSより旅費の補助をいただいております．
 旅費の補助を希望される方は，2025年12月7日(日)までに[オンラインの受付ページ](https://forms.gle/GzZQenWjujGPYte98){:target="_blank"}
 よりお申し込みください．<!-- <del>オンラインの受付ページ</del> (締め切りました) -->
 なお，学部学生は補助の対象外です．
@@ -77,7 +77,7 @@ LaTeX 用の予稿のテンプレート ([LAtemplate.tex]({{ "/assets/tex/LAtemp
 
 * LAシンポジウム開催期間中に，京都大学内に臨時の保育室を設置する制度があります．希望される方は，12月7日(日)までに，LAシンポジウム事務局（ la2025-office@googlegroups.com ）までご連絡ください．なお，予算及び会場の都合により対応出来ない場合がありますので，予めご了承ください．
 
-* [RIMS共同研究における男女共同参画・ダイバーシティ等に関する取り組みについて](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} をご理解頂いたうえで参加頂ますようお願いいいたします．
+* [RIMS共同研究における男女共同参画・ダイバーシティ等に関する取り組みについて](https://www.kurims.kyoto-u.ac.jp/kyoten/ja/gender_equality.html){:target="_blank"} をご理解いただいたうえで参加いただきますようお願いいいたします．
 
 LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentation Award, Student Presentation Award)
 --------
