@@ -43,7 +43,9 @@ title: LA Symposium 2025, 冬のLA
 
 [参加登録](https://forms.gle/tSpR3gygm9EBesoJ9){:target="_blank"}
 
+また，1月27日(火) 17:30頃より，懇親会を計画しております．懇親会への参加を希望される方は，以下のリンク先より詳細をご確認のうえ，懇親会への参加申込をお願いいたします．懇親会の参加申込締切も 12月23日(火) です．
 
+[懇親会への参加申込](https://forms.gle/T7vCpoRpvZybEkHi9){:target="_blank"}
 
 旅費補助について
 --------
