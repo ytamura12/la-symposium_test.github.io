@@ -85,7 +85,7 @@ LA/EATCS-Japan 発表論文賞，学生発表論文賞 (LA/EATCS-Japan Presentat
 --------
 
 2001年度より開始されましたLA発表論文賞ですが，2002年度からEATCS Japan Chapterと共同で，LA/EATCS-Japan 発表論文賞と衣替えし，今回が第24回となります． 
-EATCS Japan Chapter事務局各位には，暖かいご支援に厚く御礼申し上げます．
+EATCS Japan Chapter事務局各位には，温かいご支援に厚く御礼申し上げます．
 
 * [EATCS](http://www.eatcs.org/){:target="_blank"} 
 * [EATCS日本支部](http://www.dais.is.tohoku.ac.jp/eatcs_japan/index-j.html){:target="_blank"} 
